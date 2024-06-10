@@ -4,7 +4,7 @@
 
 ##### Heading
 ---
-## Heading 2
+## Heading 2 This is an update
 
 ### Heading 3
 
@@ -104,7 +104,7 @@ constexpr int STOP_DURATION = 500; // Time in milliseconds for the elevator to s
 ```mermaid
 graph TD;
     A-->B;
-    A-->C;
+    B-->C;
     B-->D;
     C-->D;
 ```
